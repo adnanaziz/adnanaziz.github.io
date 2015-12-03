@@ -13,6 +13,19 @@
     </entry>
     
     <entry>
+      <title><![CDATA[Travel]]></title>
+      <url>http://adnanaziz.com/travel/</url>
+      <content type="html"><![CDATA[<p>I’ve always suffered from Wanderlust. When I was growing up, my father was posted in in India, the Middle East, and San Francisco, and my parents took us on roadtrips from their many postings.<br>As a student, I tried to visit out-of-the-way places wherever possible.  </p>
+<p>With fatherhood, travel tapered off a great deal, but over the past five years we’ve been able to eget back to seeing the ends of the earth. Since 2009, I’ve been to India, England, France, Italy, Switzerland, Turkey, Denmark, Germany, Iceland, Portugal, Norway, Mexico, Jamaica, Alaska, California, New York, Colorado, Wyoming, and probably half a dozen other places I can’t recall.</p>
+<p>Doing this on a budget requires some creativity. For accomodations with a family, there’s no doubt what the best way is: <a href="http://homeaway.com" target="_blank" rel="external">homeaway.com</a>. (I’ve used AirBnB, but wasn’t very happy with my experiences there.) The space is a huge win over a hotel, and you get to eat healthier food, feel far more immersed in the place. I would advise you to choose location over luxury, and quiet over happening. Google street view is a good way to gague a neighborhood. If you must book a hotel, <a href="http://booking.com" target="_blank" rel="external">Booking.com</a> works well for Europe.</p>
+<p>There’s a number of ways of getting cheap tickets, e.g., <a href="http://theflightdeal.com" target="_blank" rel="external">The Flight Deal</a>. Indeed our adventures began when I found a flight to Rome that was cheaper than flying to San Diego, as originally planned. <a href="http://google.com/flights" target="_blank" rel="external">Google Flights</a> is a nice way to search for fares, especially if you have some flexibility. </p>
+<p>However, the very best way to get somewhere for cheap is to use frequent flyer miles. I began collecting them in earnest 4 years ago, and have amassed about 2.2 million miles in that time, the vast majority of which came through credit card signup bonuses. For good measure, my wife earned almost the same in that time. A million miles a year is the equivalent of flying 6 hours a day each da yof the year. Surprisingly, it didn’t hurt our credit. I monitor our credit scores for free with <a href="http://creditkarma.com" target="_blank" rel="external">Credit Karma</a>, and both my wife and I are consistently in the 810-830 range. Even more remarkably, Citi and Chase haven’t woken up to the fact that I’ve opened and closed cards with them every few months for four years.</p>
+<p>Car rentals get expensive, and wherever possibly I’d advise against it. Stick to public transport, or Uber (which we used very effectively in London recently). </p>
+<p>I got most of my travel hacks from <a href="http://millionmilesecrets.com" target="_blank" rel="external">Million Mile Secrets</a>. If you are braver, you can go to <a href="http://flyertalk.com" target="_blank" rel="external">FlyerTalk</a>, which is where most travel bloggers get their ideas from.</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Research]]></title>
       <url>http://adnanaziz.com/research/</url>
       <content type="html"><![CDATA[<p>I’ve done a great deal of research on applied algorithms. Check out my <a href="https://scholar.google.com/citations?user=2C_-st8AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="external">Google Scholar page</a> for examples of my published word.</p>
@@ -36,8 +49,30 @@
     <entry>
       <title><![CDATA[Adnan's classes]]></title>
       <url>http://adnanaziz.com/classes/</url>
-      <content type="html"><![CDATA[<ul><br><br><li><b>Undergraduate:</b><br><a href="http://bit.ly/EE312" target="_blank" rel="external"><b>EE312 Software Design and Implementation (I)</b></a>,<br><a href="http://bit.ly/ee422" target="_blank" rel="external"><b>EE422C Software Design and Implementation (II)</b></a>,<br><a href="http://bit.ly/ee461L" target="_blank" rel="external"><b>EE461L Software Design Lab</b></a>,<br><a href="wiki/doku.php?id=classes:algo2008:main">EE360C Algorithms</a><br><a href="http://bit.ly/logdes" target="_blank" rel="external"><b>EE316 Logic Design</b></a>,<br><a href="vlsi-07">EE360R Computer-aided IC design</a>,<br><br></li><li><b>Graduate:</b><br><a href="http://bit.ly/designpatternclass" target="_blank" rel="external"><b>Design Patterns</b></a>,<br><a href="http://bit.ly/adprog" target="_blank" rel="external">Advanced Programming Tools</a><br><a href="vlsi-07">VLSI-1</a>,<br><a href="https://docs.google.com/document/d/1OeBBgchz4kCcuYIA40urqoFIScBogkc5d9hjSP_5JNE/pub" target="_blank" rel="external"><b>VLSI Communication Systems</b></a>,<br><a href="wiki/doku.php?id=classes:pop2009">The Practice of Programming</a>,<br><a href="wiki/doku.php?id=classes:top2009:main">The Tools of Programming</a>,<br><a href="syn-07">Synthesis of Digital Systems</a>,<br><a href="network-02">Interconnection Networks</a>,<br><a href="verif-04">Verification of Digital Systems</a>,<br><a href="wiki/doku.php?id=classes:cscmos2009:main">Case Studies in CMOS Design</a>,<br>High Performance Processor Design<br></li></ul>
-
+      <content type="html"><![CDATA[<h2 id="Undergraduate:">Undergraduate:</h2><ul>
+<li><a href="http://bit.ly/EE312" target="_blank" rel="external"><b>EE312 Software Design and Implementation (I)</b></a></li>
+<li><a href="http://bit.ly/ee422" target="_blank" rel="external"><b>EE422C Software Design and Implementation (II)</b></a></li>
+<li><a href="http://bit.ly/ee461L" target="_blank" rel="external"><b>EE461L Software Design Lab</b></a></li>
+<li><a href="wiki/doku.php?id=classes:algo2008:main">EE360C Algorithms</a></li>
+<li><a href="http://bit.ly/logdes" target="_blank" rel="external"><b>EE316 Logic Design</b></a></li>
+<li><a href="http://users.ece.utexas.edu/~adnan/vlsi-07" target="_blank" rel="external">EE360R Computer-aided IC design</a></li>
+</ul>
+<h2 id="Graduate:">Graduate:</h2><ul>
+<li><a href="http://bit.ly/designpatternclass" target="_blank" rel="external"><b>Design Patterns</b></a></li>
+<li><a href="http://bit.ly/adprog" target="_blank" rel="external">Advanced Programming Tools</a></li>
+<li><a href="http://users.ece.utexas.edu/~adnan/vlsi-07" target="_blank" rel="external">VLSI-1</a></li>
+<li><a href="https://docs.google.com/document/d/1OeBBgchz4kCcuYIA40urqoFIScBogkc5d9hjSP_5JNE/pub" target="_blank" rel="external"><b>VLSI Communication Systems</b></a></li>
+<li><a href="http://users.ece.utexas.edu/~adnan/wiki/doku.php?id=classes:pop2009" target="_blank" rel="external">The Practice of Programming</a></li>
+<li><a href="http://users.ece.utexas.edu/~adnan/wiki/doku.php?id=classes:top2009:main" target="_blank" rel="external">The Tools of Programming</a></li>
+<li><a href="http://users.ece.utexas.edu/~adnan/syn-07" target="_blank" rel="external">Synthesis of Digital Systems</a></li>
+<li><a href="http://users.ece.utexas.edu/~adnan/network-02" target="_blank" rel="external">Interconnection Networks</a></li>
+<li>Verification of Digital Systems</li>
+<li><a href="http://users.ece.utexas.edu/~adnan/wiki/doku.php?id=classes:cscmos2009:main" target="_blank" rel="external">Case Studies in CMOS Design</a></li>
+<li><ul>
+<li>High Performance Processor Design</li>
+</ul>
+</li>
+</ul>
 ]]></content>
     </entry>
     
