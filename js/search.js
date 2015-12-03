@@ -26,18 +26,15 @@ var searchFunc = function(path, search_id, content_id) {
                 // perform local searching
                 datas.forEach(function(data) {
                     var isMatch = true;
-                    var content_index = [];                                                       
-                    if (!data.title || data.title.trim() === '') {
-                        data.title = "Untitled";
-                    }
-                    var data_title = data.title.trim().toLowerCase();     
+                    var content_index = [];
+                    var data_title = data.title.trim().toLowerCase();
                     var data_content = data.content.trim().replace(/<[^>]+>/g,"").toLowerCase();
                     var data_url = data.url;
                     var index_title = -1;
                     var index_content = -1;
                     var first_occur = -1;
-                    // only match artiles with not empty contents
-                    if (data_content !== '') {
+                    // only match artiles with not empty titles and contents
+                    if(data_title != '' && data_content != '') {
                         keywords.forEach(function(keyword, i) {
                             index_title = data_title.indexOf(keyword);
                             index_content = data_content.indexOf(keyword);
@@ -54,8 +51,6 @@ var searchFunc = function(path, search_id, content_id) {
                                 // content_index.push({index_content:index_content, keyword_len:keyword_len});
                             }
                         });
-                    } else {
-                        isMatch = false;
                     }
                     // show search results
                     if (isMatch) {
